@@ -31,6 +31,6 @@ Where:
 ## 💻 Implementation
 
 ### Software Used
-- **MATLAB Online** (no hardware required)
+- **MATLAB** (no hardware required)
 - **Control System Toolbox**
 
