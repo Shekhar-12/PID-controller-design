@@ -34,3 +34,4 @@ Where:
 - **MATLAB** (no hardware required)
 - **Control System Toolbox**
 
+![PID Simulation Output](Screenshot 2025-10-30 132921.png)
